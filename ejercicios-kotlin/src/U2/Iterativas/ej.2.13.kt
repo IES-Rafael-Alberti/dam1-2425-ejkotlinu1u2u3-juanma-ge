@@ -1,4 +1,4 @@
-package U2.Excepciones
+package U2.Iterativas
 
 fun preguntaEco(): String {
     print("Introduce algo o escribe \"salir\": ")

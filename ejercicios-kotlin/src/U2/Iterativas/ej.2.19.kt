@@ -1,4 +1,4 @@
-package U2.Excepciones
+package U2.Iterativas
 
 fun mostrarMenu() {
     println("\nMenú de opciones:")

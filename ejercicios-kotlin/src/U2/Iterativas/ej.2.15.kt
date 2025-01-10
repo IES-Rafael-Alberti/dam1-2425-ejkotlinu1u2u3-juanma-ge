@@ -1,4 +1,4 @@
-package U2.Excepciones
+package U2.Iterativas
 
 fun pedirNumero(): Int {
     print("Introduce un número entero: ")

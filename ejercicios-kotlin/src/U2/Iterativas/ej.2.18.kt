@@ -1,4 +1,4 @@
-package U2.Excepciones
+package U2.Iterativas
 
 fun preguntarNumero(): Int {
     print("Introduce un número entero positivo (-1 para terminar): ")
